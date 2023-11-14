@@ -5,7 +5,7 @@ This simple C program helps you explore the sizes and ranges of various data typ
 
 ## Getting Started
 
-To run this program, make sure you have a C compiler installed on your system. Copy the code from `data_type_size_calculator.c` and paste it into a C compiler or save it to a file with a `.c` extension.
+To run this program, make sure you have a C compiler installed on your system. Copy the code from `data_type_range_calculator.c` and paste it into a C compiler or save it to a file with a `.c` extension.
 
 ### Prerequisites
 
